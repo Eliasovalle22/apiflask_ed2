@@ -12,7 +12,7 @@ Esta API está desarrollada en Flask y devuelve una lista de nombres de personas
 2. Activa el entorno virtual e instalar las librerias:
     ```bash
     python -m venv 'nombre_del_entorno_virtual' NOTA: En este caso es apiflask_taller1
-    venv\Scripts\activate  # Para Windows
+    apiflask_taller1\Scripts\activate  # Para Windows
     pip install Flask
     ```
 
