@@ -6,7 +6,7 @@ Esta API está desarrollada en Flask y devuelve una lista de nombres de personas
 
 1. Navega a la carpeta del proyecto:
     ```bash
-    cd apiflask_ed2
+    cd apiflask_taller1
     ```
 
 2. Activa el entorno virtual e instalar las librerias:
